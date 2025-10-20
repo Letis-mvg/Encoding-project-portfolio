@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE myPoems SYSTEM "Poem_Assignment.dtd">
+<myPoems>
+    <!-- https://gallica.bnf.fr/ark:/12148/bpt6k5435112w/f80.item# -->
+    
+    <!--L'Oeuvre poétique de Victor Hugo -->
+    
+    <!-- editor : Mvondo Mvogo Léticia-->
+    
+    
+    <!-- poem 1 -->
+    
+    <poem type="lyrique">
+        <number>13</number>
+        <epigraph lang="la">Latin</epigraph>
+        <lg>
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+            <l n="6"></l>
+        </lg>
+        <lg>
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+            <l n="6"></l>
+        </lg>  
+        
+    </poem>
+    
+    <!-- poem 2 -->
+    
+    <poem type="lyrique">
+        <number>15</number>
+        <epigraph lang="en">english</epigraph>
+        <lg>
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+        </lg>
+        <lg>
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+        </lg>
+        <lg>
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+        </lg>
+       
+    </poem>
+    
+    <!-- poem 3 -->
+    
+    <poem type="lyrique">
+        <number>19</number>
+        <epigraph lang="fr">french</epigraph>
+        <lg>
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+            <l n="6"></l>
+        </lg>
+        <lg>
+            <l n="1"></l>
+            <l n="2"></l>
+            <l n="3"></l>
+            <l n="4"></l>
+            <l n="5"></l>
+            <l n="6"></l>
+        </lg> 
+        
+    </poem>
+   
+    
+</myPoems>

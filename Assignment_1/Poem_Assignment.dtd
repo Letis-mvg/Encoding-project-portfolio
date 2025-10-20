@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT myPoems (poem+)>
+<!ELEMENT poem (number, epigraph, lg+,url?)>
+<!ATTLIST poem type CDATA #IMPLIED>
+<!ELEMENT number (#PCDATA)>
+<!ELEMENT epigraph (#PCDATA)>
+<!ATTLIST epigraph lang CDATA  #REQUIRED>
+<!ELEMENT lg (l+)>
+<!ELEMENT l (#PCDATA)>
+<!ATTLIST l n CDATA  #REQUIRED>
+<!ELEMENT url (#PCDATA)>
